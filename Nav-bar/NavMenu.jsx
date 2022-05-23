@@ -7,7 +7,7 @@ function NavMenu() {
   return (
     <Navbar bg="dark" variant="dark" expand="lg" className="mb-10">
       <Container>
-        <Navbar.Brand href="/">Byn-Blocket</Navbar.Brand>
+        <Navbar.Brand href="/">Nraxi page</Navbar.Brand>
         <Nav className="me-auto">
           <Nav.Link href="/shop">Shop</Nav.Link>
           <Nav.Link href="/varukorg">Varukorg</Nav.Link>
