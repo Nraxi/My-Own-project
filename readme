@@ -1,0 +1,13 @@
+cd Frontend
+npm i = för installera moduler i frontend. 
+npm run dev - för development i frontend. 
+
+Npm run build, för att få igång backend delen. 
+npm start för att start Backend i färdig produktion. 
+
+cd frontend, cd Backend, node index.js för sepearat backend
+backend ligger på port 5000.
+Front på 3000. 
+
+http://localhost:5000/api/produkter
+http://localhost:5000/api/produktkategorier
