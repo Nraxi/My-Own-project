@@ -1,0 +1,32 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.produkt-form {
+  display: flex;
+  flex-direction: column;
+  align-items: right;
+  text-align: right;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.buy {
+  width: 10%;
+  display: flex;
+  justify-content: flex-end;
+
+
+}
+
+.gb-option {
+  width: 10%;
+  display: flex;
+  justify-content: flex-end;
+
+}
+
+.mobile-phone {
+  display: flex;
+  width: 200px;
+  height: 400px;
+  text-align: left;
+}
