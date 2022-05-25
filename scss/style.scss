@@ -1,32 +1,15 @@
 @import "../node_modules/bootstrap/scss/bootstrap";
 
-.produkt-form {
-  display: flex;
-  flex-direction: column;
-  align-items: right;
-  text-align: right;
-  justify-content: space-between;
-  height: 100%;
+.meny1 {
+  background-image: url("/src/img/hexagon-3337447_1280.jpeg");
 }
 
-.buy {
-  width: 10%;
-  display: flex;
-  justify-content: flex-end;
-
-
+.me-auto {
+  text-decoration: none;
+  color: rgb(255, 213, 0);
 }
 
-.gb-option {
-  width: 10%;
-  display: flex;
-  justify-content: flex-end;
-
-}
-
-.mobile-phone {
-  display: flex;
-  width: 200px;
-  height: 400px;
-  text-align: left;
+body {
+  background-color: black;
+  color: rgb(199, 15, 15);
 }
