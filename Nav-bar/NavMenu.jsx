@@ -5,7 +5,7 @@ import { Container, Nav, Navbar } from 'react-bootstrap';
 
 function NavMenu() {
   return (
-    <Navbar bg="dark" expand="lg" variant="light">
+    <Navbar bg="dark" expand="lg" variant="light" className='meny1'>
       <Container>
         <Navbar.Brand href="/">Nraxi page</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
